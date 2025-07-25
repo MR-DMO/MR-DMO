@@ -1,4 +1,4 @@
-## Hi there 👋  I'm Darren Monk – Serial Entrepreneur, People Person & Web3 Adventurer
+## Hi there 👋  I'm Darren DMO – Serial Entrepreneur, People Person & Web3 Adventurer
 
 I'm a big believer in technology that empowers people. My journey has taken me from launching a print magazine (just before the dot-com boom!) to scaling a £2M+ e-commerce business — and currently, diving headfirst into the wild world of Web3.
 
