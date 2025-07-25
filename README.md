@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-# 👋 Hi, I'm Darren Monk – Serial Entrepreneur, People Person & Web3 Adventurer
+## Hi there 👋  I'm Darren Monk – Serial Entrepreneur, People Person & Web3 Adventurer
 
 I'm a big believer in technology that empowers people. My journey has taken me from launching a print magazine (just before the dot-com boom!) to scaling a £2M+ e-commerce business — and currently, diving headfirst into the wild world of Web3.
 
@@ -68,6 +65,3 @@ Check out: [3wiseapes.com](https://3wiseapes.com)
 🌍 I’m building a community that gives a damn — about the tech, the people, and doing things right.
 🚀 If you’re into that too, let’s connect. Let’s build something real. Let’s build something better.
 
-
-
--->
